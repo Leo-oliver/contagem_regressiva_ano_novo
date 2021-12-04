@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+}  
+#titulo{
+    font-size: 60px;
+}
+#firstSentence{
+    margin-top: 60px;
+}
+#fiveSentence{
+    color: red;
+    font-style: italic;
+    margin-top: 60px;
+}      
